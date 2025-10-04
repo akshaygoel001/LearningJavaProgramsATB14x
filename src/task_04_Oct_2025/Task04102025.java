@@ -2,7 +2,7 @@ package task_04_Oct_2025;
 
 import java.util.Scanner;
 
-public class FizzBuzzTest {
+public class Task04102025 {
     public static void main(String[] args) {
         fizzBuzzTest();
         Scanner scanner = new Scanner(System.in);
