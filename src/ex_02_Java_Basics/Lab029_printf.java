@@ -1,6 +1,6 @@
-package ex_03_Java_Basics;
+package ex_02_Java_Basics;
 
-public class Lab001_printf {
+public class Lab029_printf {
 
     public static void main(String[] args) {
         int n = 9;

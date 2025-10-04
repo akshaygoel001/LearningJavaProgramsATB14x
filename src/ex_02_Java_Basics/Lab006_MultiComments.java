@@ -1,6 +1,11 @@
 package ex_02_Java_Basics;
 
-public class Lab002_MultiComments {
+/**Author: Akshay
+ * Learning: Java Programming
+ * Date: 2025-09-13
+ **/
+
+public class Lab006_MultiComments {
 
     /**Author: Akshay
      * Learning: Java Programming
