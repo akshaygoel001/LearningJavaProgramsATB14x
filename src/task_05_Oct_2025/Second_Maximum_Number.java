@@ -5,7 +5,7 @@ public class Second_Maximum_Number {
         int[] numbers = {12, 34, 10, 1, 100, 3, 4, 32};
         int max = Integer.MIN_VALUE;
         int sec_max = Integer.MIN_VALUE;
-        for (int i:numbers){
+        for (int i=0;i<numbers.length;i++){
             if (numbers[i] > max){
                 sec_max = max;
                 max = numbers[i];
