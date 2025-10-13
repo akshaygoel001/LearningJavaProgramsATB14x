@@ -9,7 +9,7 @@ public class Lab149_Program_CharArray {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the input string, i will reverse it");
         String user_input = scanner.next();
-        // Pramod
+        // Akshay
 
 
         String reverse_user_input = "";

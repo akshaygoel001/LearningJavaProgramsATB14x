@@ -5,7 +5,7 @@ public class Lab150_String_Palindrome {
         // madam -> reverse -> madam
         // naman -> naman
         // user_input == reverse(user_input)
-        String input = "Pramod";
+        String input = "Akshay";
         String reversed = "";
 
         for (int i = input.length() - 1; i >= 0; i--) {

@@ -9,12 +9,12 @@ public class Lab149_Program_ChatAt_Reverse_String {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the input string, i will reverse it");
         String user_input = scanner.next();
-        // Pramod
+        // Akshay
 
 //        StringBuilder stringBuilder = new StringBuilder(user_input);
 //        System.out.println(stringBuilder.reverse());
 
-        // Pramod -> user_input.length(), chatAt()
+        // Akshay -> user_input.length(), chatAt()
         String reverse_user_input = "";
 
 
