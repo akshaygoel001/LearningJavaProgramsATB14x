@@ -5,7 +5,7 @@ public class Lab224 {
     public static void main(String[] args) {
         temp_sum_t(10,10);
         temp_sum_t(10.34,10.45);
-        temp_sum_t("Akshay","Goel");
+        temp_sum_t("Pramod","Dutta");
     }
 
 //    static Integer temp_sum(Integer a,Integer b){
