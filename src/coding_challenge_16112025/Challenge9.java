@@ -4,7 +4,7 @@ public class Challenge9 {
     public static void main(String[] args) {
         Rectangles rectangle = new Rectangles();
         Circles circle = new Circles();
-        System.out.println(rectangle.draw()+" "+circle.draw());
+        System.out.println(circle.draw()+" "+rectangle.draw());
     }
 }
 interface Drawable{
@@ -13,12 +13,12 @@ interface Drawable{
 
 class Rectangles{
     public String draw() {
-        return "Drawing a Circle";
+        return "Drawing a Rectangle";
     }
 }
 class Circles{
     public String draw() {
-        return "Drawing a Rectangle";
+        return "Drawing a Circle";
     }
 }
 
