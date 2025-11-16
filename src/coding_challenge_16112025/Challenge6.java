@@ -2,10 +2,10 @@ package coding_challenge_16112025;
 
 public class Challenge6 {
     public static void main(String[] args) {
-        Vehicle car = new Car();
-        Vehicle bike = new Bike();
-        car.start();
-        bike.start();
+        Vehicle[] vehicles = {new Car(), new Bike()};
+        for (Vehicle vehicle:vehicles){
+            vehicle.start();
+        }
     }
 }
 class Vehicle{
