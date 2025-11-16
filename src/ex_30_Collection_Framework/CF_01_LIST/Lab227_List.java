@@ -1,4 +1,4 @@
-package ex_30_Collection_Framework;
+package ex_30_Collection_Framework.CF_01_LIST;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,13 +9,12 @@ public class Lab227_List {
         System.out.println(fruits);
 
         List arrayList = new ArrayList();
-        arrayList.add("pramod");
-        arrayList.add("pramod");
-        arrayList.add("dutta");
+        arrayList.add("akshay");
+        arrayList.add("akshaY");
+        arrayList.add("goel");
         arrayList.add(true);
         arrayList.add(1.23);
         arrayList.add(123);
-        arrayList.add(null);
 
         System.out.println(arrayList);
         System.out.println(arrayList.size());
